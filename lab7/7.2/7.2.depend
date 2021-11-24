@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1587686793 source:c:\users\t_ton\desktop\7.2\functii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functii.h"
+
+1587686792 c:\users\t_ton\desktop\7.2\functii.h
+
+1587686812 source:c:\users\t_ton\desktop\7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+	"BfsDfs.h"
+
+1587684767 source:c:\users\t_ton\desktop\7.2\stackqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"StackQueue.h"
+
+1587669174 c:\users\t_ton\desktop\7.2\stackqueue.h
+
+1587686793 source:c:\users\t_ton\desktop\7.2\bfsdfs.c
+	<stdio.h>
+	<stdlib.h>
+	"StackQueue.h"
+	"BfsDfs.h"
+
+1587686792 c:\users\t_ton\desktop\7.2\bfsdfs.h
+

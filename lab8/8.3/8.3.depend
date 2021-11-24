@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588463018 source:c:\users\t_ton\desktop\8.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1588460600 c:\users\t_ton\desktop\8.3\functii.h
+
+1588459573 source:c:\users\t_ton\desktop\8.3\functii.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
