@@ -1,0 +1,18 @@
+27: ea
+29: ea
+33: ea
+39: ea
+47: tu
+57: ea
+68: Eu eu
+69: ea
+83: ea
+yes 29
+ex can not be deleted
+no
+33: ea
+39: ea
+57: ea
+68: Eu eu
+69: ea
+83: ea

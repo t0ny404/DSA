@@ -1,0 +1,18 @@
+iAspirin farma , 7.65, 6, 20190203,      20000708
+iAspirin bayer , 7.65, 6,20190203,20200708
+iAspirin dex , 7.65, 6,20190203,20200708
+iparac , 7.65, 6,20190203,   20200326
+ialgo , 7.65, 6,20190203,20200322
+ituse , 7.65, 6,20190203,    20190708
+ipastila , 7.65, 6,20150203,20200108
+
+
+uAspirin farma, nurefen, 4.5, ~,~,~
+
+dtuse
+
+tp
+ti
+tP
+ce
+

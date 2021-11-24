@@ -1,0 +1,32 @@
+Product found
+Deletion/Update of product Aspirin farma  completed
+Deletion/Update of product tuse completed
+
+ algo 
+  Aspirin bayer 
+   Aspirin dex 
+  parac 
+   nurefen
+   pastila 
+
+
+  Aspirin bayer 
+   Aspirin dex 
+ algo 
+   nurefen
+  parac 
+   pastila 
+
+
+   Aspirin dex 
+  Aspirin bayer 
+   nurefen
+   pastila 
+  parac 
+ algo 
+
+expired products are:
+ algo 
+  nurefen
+   parac 
+    pastila 

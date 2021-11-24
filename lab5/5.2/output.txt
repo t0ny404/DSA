@@ -1,0 +1,35 @@
+
+ B
+  A
+  Z
+   E
+
+  A
+ B
+   E
+  Z
+
+  A
+   E
+  Z
+ B
+Node not found
+Node found
+
+Min is A
+
+Max is Z
+
+Deletion of node B completed
+
+ E
+  A
+  Z
+
+  A
+ E
+  Z
+
+  A
+  Z
+ E
