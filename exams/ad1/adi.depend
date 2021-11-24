@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591103779 source:c:\users\t_ton\desktop\adi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

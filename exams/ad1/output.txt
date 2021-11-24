@@ -1,0 +1,5 @@
+Timisoara Constanta A2-0 
+Oradea Galati A1-0 
+Cluj-Napoca Arad A2-0 
+Cluj-Napoca Timisoara A1-1 
+Bucuresti Arad A2-1 

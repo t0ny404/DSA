@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1590799943 source:c:\users\t_ton\desktop\test\alg.c
+	<stdio.h>
+	<stdlib.h>
+	"alg.h"
+
+1590799932 c:\users\t_ton\desktop\test\alg.h
+
+1590827389 source:c:\users\t_ton\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"processArgs.h"
+	<unistd.h>
+	"dictionary.h"
+
+1590799742 c:\users\t_ton\desktop\test\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1590799742 source:c:\users\t_ton\desktop\test\processargs.c
+	"processArgs.h"
+
+1590827080 source:c:\users\t_ton\desktop\test\dictionary.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dictionary.h"
+
+1590827064 c:\users\t_ton\desktop\test\dictionary.h
+
+1590827423 source:c:\users\t_ton\desktop\an1sem2\dsa\colocviu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"processArgs.h"
+	<unistd.h>
+	"dictionary.h"
+
+1590799742 c:\users\t_ton\desktop\an1sem2\dsa\colocviu\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1590827064 c:\users\t_ton\desktop\an1sem2\dsa\colocviu\dictionary.h
+
+1590799742 source:c:\users\t_ton\desktop\an1sem2\dsa\colocviu\processargs.c
+	"processArgs.h"
+
+1590973985 source:c:\users\t_ton\desktop\an1sem2\dsa\colocviu\dictionary.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dictionary.h"
+

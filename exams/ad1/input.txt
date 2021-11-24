@@ -1,0 +1,7 @@
+5
+Cluj-Napoca Timisoara
+Cluj-Napoca Arad
+Bucuresti Arad
+Oradea Galati
+Timisoara Constanta
+Constanta Arad
