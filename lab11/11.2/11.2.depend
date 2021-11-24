@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590798130 source:c:\users\t_ton\desktop\11.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+	<unistd.h>
+	"canibal.h"
+
+1590770844 source:c:\users\t_ton\desktop\11.2\processargs.c
+	"processArgs.h"
+
+1590770882 c:\users\t_ton\desktop\11.2\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1590797774 source:c:\users\t_ton\desktop\11.2\canibal.c
+	<stdio.h>
+	<stdlib.h>
+	"canibal.h"
+
+1590797968 c:\users\t_ton\desktop\11.2\canibal.h
+

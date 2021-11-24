@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1590177295 source:c:\users\t_ton\desktop\10.1\processargs.c
+	"processArgs.h"
+
+1590177296 c:\users\t_ton\desktop\10.1\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1590182146 source:c:\users\t_ton\desktop\10.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"processArgs.h"
+	<unistd.h>
+	"functii.h"
+
+1590184282 c:\users\t_ton\desktop\10.1\functii.h
+
+1590184266 source:c:\users\t_ton\desktop\10.1\functii.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"functii.h"
+

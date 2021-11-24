@@ -1,0 +1,91 @@
+L: 12c 12n
+B: 0c 0n
+R: 0c 0n
+
+L: 10c 10n
+B: 2c 2n
+R: 0c 0n
+
+L: 10c 10n
+B: 1c 0n
+R: 1c 2n
+
+L: 9c 10n
+B: 2c 0n
+R: 1c 2n
+
+L: 9c 10n
+B: 1c 0n
+R: 2c 2n
+
+L: 8c 8n
+B: 2c 2n
+R: 2c 2n
+
+L: 8c 8n
+B: 1c 0n
+R: 3c 4n
+
+L: 7c 8n
+B: 2c 0n
+R: 3c 4n
+
+L: 7c 8n
+B: 1c 0n
+R: 4c 4n
+
+L: 6c 6n
+B: 2c 2n
+R: 4c 4n
+
+L: 6c 6n
+B: 1c 0n
+R: 5c 6n
+
+L: 5c 6n
+B: 2c 0n
+R: 5c 6n
+
+L: 5c 6n
+B: 1c 0n
+R: 6c 6n
+
+L: 4c 4n
+B: 2c 2n
+R: 6c 6n
+
+L: 4c 4n
+B: 1c 0n
+R: 7c 8n
+
+L: 3c 4n
+B: 2c 0n
+R: 7c 8n
+
+L: 3c 4n
+B: 1c 0n
+R: 8c 8n
+
+L: 2c 2n
+B: 2c 2n
+R: 8c 8n
+
+L: 2c 2n
+B: 1c 0n
+R: 9c 10n
+
+L: 1c 2n
+B: 2c 0n
+R: 9c 10n
+
+L: 1c 2n
+B: 1c 0n
+R: 10c 10n
+
+L: 0c 0n
+B: 2c 2n
+R: 10c 10n
+
+L: 0c 0n
+B: 0c 0n
+R: 12c 12n

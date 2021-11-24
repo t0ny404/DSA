@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590769555 source:c:\users\t_ton\desktop\11.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+	<unistd.h>
+	"BranchAndBound.h"
+
+1590770167 source:c:\users\t_ton\desktop\11.1\branchandbound.c
+	<stdio.h>
+	<stdlib.h>
+	"BranchAndBound.h"
+
+1590769442 c:\users\t_ton\desktop\11.1\branchandbound.h
+
+1590685944 c:\users\t_ton\desktop\11.1\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1590685944 source:c:\users\t_ton\desktop\11.1\processargs.c
+	"processArgs.h"
+
