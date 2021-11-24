@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1584110733 source:c:\users\t_ton\desktop\3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1584110734 source:c:\users\t_ton\desktop\3.3\functii.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1584110733 c:\users\t_ton\desktop\3.3\functii.h
+
+1588693902 source:c:\users\t_ton\desktop\an2sem2\dsa\lab3\3.3\functii.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1588693975 c:\users\t_ton\desktop\an2sem2\dsa\lab3\3.3\functii.h
+
+1588693833 source:c:\users\t_ton\desktop\an2sem2\dsa\lab3\3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+

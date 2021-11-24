@@ -1,0 +1,2 @@
+as number of nodes: 4
+as number of edges: 3
